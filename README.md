@@ -34,3 +34,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+You said:
+"use client";
+
+
+# Smart Task Manager with AI Assistance
+
+A task management application built using **Next.js** and **Tailwind CSS**, featuring task creation, editing, status toggling, and smart AI-powered subtasks suggestion using the **Gemini API**.
+
+---
+
+##  Setup Instructions
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/smart-task-manager.git
+cd smart-task-manager

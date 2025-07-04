@@ -84,7 +84,7 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-indigo-100 via-white to-cyan-100 py-10 px-4">
+    <main className="wrapper">
       <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-extrabold text-center text-indigo-700 mb-8`"> Smart Task Manager</h1>
 
